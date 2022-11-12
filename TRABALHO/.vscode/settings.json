@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "quicksort.h": "c",
+        "utils.h": "c"
+    }
+}
